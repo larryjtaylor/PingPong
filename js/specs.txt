@@ -1,0 +1,15 @@
+If a number between 1 and the input number can be divided by 3, the program will replace the number with the word "ping."
+Input: 9
+Return: ping
+
+If a number between 1 and the input number can be divided by 5, the program will replace the number with the word "ping."
+Input: 10
+Return: png
+
+If a number between 1 and the input number can be divided by both 3 and 5, the program will replace the number with the word "ping-pong."
+Input: 30
+Return: ping-pong
+
+If a number between 1 and the input number cannot be divided by 3 or 5, the program will return the number as its own value.
+Input: 13
+Return: 13
