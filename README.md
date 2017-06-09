@@ -39,7 +39,7 @@ This version contains no known issues.
 
 ## Link to site on Git Hub Pages
 
-https://larryjtaylor.github.io/ping-pong
+https://larryjtaylor.github.io/PingPong
 
 ## Support and contact details
 
