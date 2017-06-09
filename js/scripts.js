@@ -17,7 +17,7 @@ var pingPong = function(userInput){
     } else {
       numberArray.push(index)
     }
-  } return pingPong;
+  } return numberArray;
 };
 
 // Front end logic here
