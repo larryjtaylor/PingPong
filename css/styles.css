@@ -1,0 +1,32 @@
+body{
+  background-image: url(http://www.ldssmile.com/wp-content/uploads/2016/08/ping-pong.jpg);
+  text-align: center;
+  height: inherit;
+}
+
+.jumbotron{
+  text-align: center;
+  background-color: forestgreen;
+  color: white;
+  border: solid;
+  border-width: 10px;
+  border-color: white;
+}
+li {
+  list-style: none;
+}
+.well {
+  display: block;
+  margin: auto;
+  width: 45%;
+}
+
+button{
+  margin: 5%;
+}
+.panel {
+  display: block;
+  margin-left: 30%;
+  margin-top: 5%;
+  width: 40%;
+}
